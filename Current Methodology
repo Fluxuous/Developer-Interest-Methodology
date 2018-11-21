@@ -1,0 +1,42 @@
+Developer
+Cryptocurrencies are software and it is important to measure the interest that developers have shown in working on the blockchain's protocol. The software development progress for most projects can be found on Github, a code management platform.
+
+GitHub Watchers
+Weight: 20%
+Source: GitHub
+Several Github related factors measure the interest developers have in the core protocol of the crypto asset. The software development progress for most projects can be found on GitHub, a code management platform.
+
+GitHub Contributors
+Weight: 20%
+Source: GitHub
+The number of GitHub users (that are not part of the core development team) who contribute code updates to a project. This metric measures the level of activity from the developer community; a higher number indicates more interests in a project, as anyone can contribute changes to a project for review.
+
+GitHub Stars
+Weight: 20%
+Source: Github
+The number of stars GitHub users have given a code repository. This metric measures how popular a project is because stars are given to indicate that users like the project or save them as bookmarks so they can follow the progress of the project.
+
+GitHub Forks
+Weight: 10%
+Source: GitHub
+The number of times GitHub users have copied another user’s public code repository to freely make changes to a project without affecting the original. This metric measures the level of interest from developer community, as forks are commonly used to propose change to someone else’s project or starting point for an idea.
+
+GitHub Merged Pull Requests
+Weight: 10%
+Source: GitHub
+The number of changes submitted by another user that have been merged in the main repository by a core developer in the project. This metric measures active project development and contributions from the developer community.
+
+GitHub Open Issues
+Weight: 5%
+Source: GitHub
+The number of open issues or tasks that are a work in progress. This metric is an indicator of on-going project development and progress.
+
+GitHub Closed Issues
+Weight: 5%
+Source: GitHub
+The number of issues reported and resolved, and tasks completed. This metric is an indicator of on-going project development and progress.
+
+GitHub New Commits
+Weight: 10%
+Source: GitHub
+The number of new commits or “revision” to a file in a repository, which enables tracking changes that were made and by who. This metric indicates on-going development activity and progress.
