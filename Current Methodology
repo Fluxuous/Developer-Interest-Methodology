@@ -41,4 +41,4 @@ The number of issues reported and resolved, and tasks completed. This metric is 
 GitHub New Commits
 Weight: 10%
 Source: GitHub
-The number of new commits or “revision” to a file in a repository, which enables tracking changes that were made and by who. This metric indicates on-going development activity and progress.
+The number of new commits or “revision” to a file in a repository, which enables tracking changes that were made and by who. This metric indicates on-going development activity and progress. 
