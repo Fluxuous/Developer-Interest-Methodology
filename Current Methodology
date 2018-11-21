@@ -13,7 +13,7 @@ Weight: 20%
 Source: GitHub
 This metric measures the level of activity from the developer community; a higher number indicates more interests in a project, as anyone can contribute changes to a project for review.
 
-GitHub Stars
+GitHub Stars 
 Weight: 20%
 Source: Github
 The number of stars GitHub users have given a code repository. This metric measures how popular a project is because stars are given to indicate that users like the project or save them as bookmarks so they can follow the progress of the project.
