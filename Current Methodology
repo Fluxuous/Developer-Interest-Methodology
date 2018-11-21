@@ -1,15 +1,16 @@
 Developer Interest
 
-First, we use a benchmark system where the developer work for bitcoin is the standard and defines a 100% score. 
+This gauge uses bitcoin as a benchmark.
+The developer work for bitcoin is the standard and defines a 100% score. 
 Importantly, 100% is not a limit in any way, and any cryptocurrency could score higher than 100%. 
 The most useful way to think of this is the relationship between water and celsius. 
 The freezing and boiling points of water were chosen to be 0-100 degrees which made it easy to create equal degrees of centigrade. 
-Of course, there are temperatures below 0 and above 100 and we expect to see the same with this score over time.
+Of course, there are temperatures below 0 and above 100 and we expect to see the same with this measurement over time.
 
 The following is the breakdown of data points and weights that are used to measure developer interest in a cryptocurrency:
 
 GitHub Watchers
-Weight: 20%
+Weight: 10% 
 Source: GitHub
 
 GitHub Contributors
@@ -17,7 +18,7 @@ Weight: 20%
 Source: GitHub
 
 GitHub Stars 
-Weight: 20%
+Weight: 5%
 Source: Github
 
 GitHub Forks
@@ -29,14 +30,14 @@ Weight: 10%
 Source: GitHub
 
 GitHub Open Issues
-Weight: 5%
+Weight: 15%
 Source: GitHub
 
 GitHub Closed Issues
-Weight: 5%
+Weight: 15%
 Source: GitHub
 
 GitHub New Commits
-Weight: 10%
+Weight: 15%
 Source: GitHub
 
